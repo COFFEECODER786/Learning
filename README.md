@@ -1,3 +1,3 @@
 # Learning
-This is my first git repo.\n
+This is my first git repo.
 Author - Coffee
